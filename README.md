@@ -1,7 +1,5 @@
 What happens when...
 
-What happens when...
-
 Introduction:
 Have you ever wondered what happens behind the scenes when you type "https://www.google.com" into your browser and hit Enter?
 This repository is an attempt to answer the age-old interview question "What happens when you type google.com into your browser's address box and press enter?"
